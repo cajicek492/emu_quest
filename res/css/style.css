@@ -33,6 +33,7 @@ body{
 }
 #shop img{
 max-width: 150px;
+padding-top: 3px;
 }
 #settings{
     background-color: beige;
